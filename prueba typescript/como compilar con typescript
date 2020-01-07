@@ -1,0 +1,4 @@
+compilar 
+tsc greeter.ts
+
+tsc -w * greeter.ts compilacion auto
